@@ -27,6 +27,7 @@
 * QQ
 * Transporter
 * Developer
+* DB Browser for SQLite
 * Sketch
 * Bear
 * DaisyDisk
