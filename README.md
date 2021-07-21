@@ -11,6 +11,8 @@
   * change font to `FiraCode`
 * iTerm2
   * change font to `FiraCode`
+  * change `Previous Tab` keymap to `Command + Alt + ←`
+  * change `Next Tab` keymap to `Command + Alt + →`
 * Dash
   * set snippet library location to Dropbox
 * Oh My Zsh
