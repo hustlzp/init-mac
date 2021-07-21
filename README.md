@@ -30,6 +30,8 @@
 * Sketch
 * Bear
 * DaisyDisk
+* CocoaPods
+* Carthage
 
 ## Other
 
