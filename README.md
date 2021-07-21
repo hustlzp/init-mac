@@ -16,7 +16,7 @@
 * Oh My Zsh
 * Homebrew
 * Alfred
-  * set preference folder to `Dropbox/Alfred`
+  * set preference folder to Dropbox
 * ShadowsocksX-NG
 * Sourcetree
 * iStat Menus
