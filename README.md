@@ -8,6 +8,8 @@
 * VSCode
   * change `Format Document` keymap to `Alt + F`
 * iTerm2
+* Dash
+  * set snippet library location to Dropbox
 * Oh My Zsh
 * Homebrew
 * Alfred
@@ -24,6 +26,7 @@
 * Developer
 * Sketch
 * Bear
+* DaisyDisk
 
 ## Other
 
