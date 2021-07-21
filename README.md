@@ -6,6 +6,7 @@
 * VSCode
 * iTerm2
 * Alfred
+  * Set preference folder to `Dropbox/Alfred`
 * ShadowsocksX-NG
 * Sourcetree
 * iStat Menus
@@ -22,4 +23,3 @@
 ## Other
 
 * Font: [FiraCode](https://github.com/tonsky/FiraCode)
-* 
