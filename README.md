@@ -37,6 +37,7 @@
 * DaisyDisk
 * CocoaPods
 * Carthage
+* The Unarchiver
 
 ## Other
 
