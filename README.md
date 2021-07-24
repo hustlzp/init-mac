@@ -23,6 +23,7 @@
 * Sourcetree
 * iStat Menus
 * Chrome
+* Sougou Pinyin 
 * Dropbox
 * Karabiner
 * WeChat
