@@ -39,4 +39,5 @@
 
 ## Other
 
-* Font: [FiraCode](https://github.com/tonsky/FiraCode)
+* Font
+  * [FiraCode](https://github.com/tonsky/FiraCode)
