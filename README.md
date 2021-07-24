@@ -4,7 +4,7 @@
 
 * Xcode
   * change `Open Quickly` keymap to `Command + P`
-  * change `Re-Indent` keymap to `Command + P`
+  * change `Re-Indent` keymap to `Alt + F`
   * change font to `FiraCode`
 * VSCode
   * change `Format Document` keymap to `Alt + F`
