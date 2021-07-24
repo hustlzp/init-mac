@@ -20,6 +20,7 @@
 * Homebrew
 * Alfred
   * set preference folder to Dropbox
+  * enable clipboard history
 * ShadowsocksX-NG
 * Sourcetree
 * iStat Menus
