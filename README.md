@@ -26,6 +26,7 @@
 * Sougou Pinyin 
 * Dropbox
 * Karabiner
+* IINA
 * WeChat
 * QQ
 * Transporter
