@@ -7,7 +7,7 @@
   * change `Re-Indent` keymap to `Alt + F`
   * change font to `FiraCode`
 * VSCode
-  * change `Format Document` keymap to `Alt + F`
+  * change `editor.action.formatDocument.none` keymap to `Alt + F`
   * change font to `FiraCode`
 * iTerm2
   * change font to `FiraCode`
