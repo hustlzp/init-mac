@@ -45,6 +45,7 @@
 * CocoaPods
 * Carthage
 * The Unarchiver
+* Magnet
 
 ## Other
 
