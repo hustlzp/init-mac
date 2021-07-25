@@ -9,6 +9,10 @@
 * VSCode
   * change `editor.action.formatDocument` keymap to `Alt + F`
   * change `editor.action.formatDocument.none` keymap to `Alt + F`
+  * change `workbench.action.terminal.focusPreviousTerminal` keymap to `Alt + Command + ↑`
+  * change `workbench.action.terminal.focusNextTerminal` keymap to `Alt + Command + ↓`
+  * change `workbench.action.terminal.focusPreviousPane` keymap to `Alt + Command + ←`
+  * change `workbench.action.terminal.focusNextPane` keymap to `Alt + Command + →`
   * change font to `FiraCode`
 * iTerm2
   * change font to `FiraCode`
