@@ -7,6 +7,7 @@
   * change `Re-Indent` keymap to `Alt + F`
   * change font to `FiraCode`
 * VSCode
+  * turning on settings sync
   * change `editor.action.formatDocument` keymap to `Alt + F`
   * change `editor.action.formatDocument.none` keymap to `Alt + F`
   * change `workbench.action.terminal.focusPreviousTerminal` keymap to `Alt + Command + ↑`
