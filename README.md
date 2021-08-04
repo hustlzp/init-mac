@@ -46,6 +46,7 @@
 * Carthage
 * The Unarchiver
 * Magnet
+* [SF Symbols](https://developer.apple.com/sf-symbols/)
 
 ## Other
 
