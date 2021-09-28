@@ -56,6 +56,9 @@
 
 * Font
   * [FiraCode](https://github.com/tonsky/FiraCode)
-* ssh
+* SSH
   * `ssh-keygen`
   * `cat ~/.ssh/id_rsa.pub` then copy to GitHub and other coding platforms
+* Git
+  * `git config --global user.email "hustlzp@qq.com"`
+  * `git config --global user.name "hustlzp"`
