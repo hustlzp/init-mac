@@ -56,3 +56,6 @@
 
 * Font
   * [FiraCode](https://github.com/tonsky/FiraCode)
+* ssh
+  * `ssh-keygen`
+  * `cat ~/.ssh/id_rsa.pub` then copy to GitHub and other coding platforms
