@@ -31,6 +31,9 @@
 * Sourcetree
 * iStat Menus
 * Chrome
+  * 系统偏好设置 -> 键盘 -> 快捷键 -> App 快捷键
+    * 添加 -> Google Chrome -> 选择上一个标签 -> `Command + Alt + ←`
+    * 添加 -> Google Chrome -> 选择下一个标签 -> `Command + Alt + →`
 * Sougou Pinyin 
 * Dropbox
 * Karabiner
