@@ -55,6 +55,8 @@
   * `brew install node@14`
 * 飞书
 * redis
+* lean-cli
+  * `brew install lean-cli`
 
 ## Other
 
