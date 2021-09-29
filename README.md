@@ -54,6 +54,7 @@
 * Node.js
   * `brew install node@14`
 * 飞书
+* redis
 
 ## Other
 
