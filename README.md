@@ -51,6 +51,8 @@
 * The Unarchiver
 * Magnet
 * [SF Symbols](https://developer.apple.com/sf-symbols/)
+* Node.js
+  * `brew install node@14`
 
 ## Other
 
