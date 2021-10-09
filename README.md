@@ -44,6 +44,10 @@
 * Developer
 * DB Browser for SQLite
 * Sketch
+  * Fix: `sudo xattr -rd com.apple.quarantine /Applications/Sketch.app` 
+  * Plugins:
+    * [iOS Sketch Library](sketch://add-library?url=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fdownloads%2Fsketch.rss)
+    * [Lanhu](https://lanhuapp.com/mac)
 * Bear
 * DaisyDisk
 * CocoaPods
@@ -62,9 +66,11 @@
 
 * Font
   * [FiraCode](https://github.com/tonsky/FiraCode)
+  * [SF Pro](https://developer.apple.com/fonts/)
 * SSH
   * `ssh-keygen`
   * `cat ~/.ssh/id_rsa.pub` then copy to GitHub and other coding platforms
 * Git
   * `git config --global user.email "hustlzp@qq.com"`
   * `git config --global user.name "hustlzp"`
+
