@@ -7,6 +7,7 @@
   * change `Re-Indent` keymap to `Alt + F`
   * change `Find Selected Symbol in Workspace` keymap to `Alt + S`
   * change font to `FiraCode`
+  * check `Text Editing` -> `Editing` -> `While Editing` -> `Including whitespace-only lines`
 * VSCode
   * turning on settings sync
   * change `editor.action.formatDocument` keymap to `Alt + F`
