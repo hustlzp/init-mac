@@ -46,7 +46,7 @@
 * Sketch
   * Fix: `sudo xattr -rd com.apple.quarantine /Applications/Sketch.app` 
   * Plugins:
-    * [iOS Sketch Library](sketch://add-library?url=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fdownloads%2Fsketch.rss)
+    * [iOS Sketch Library](https://developer.apple.com/design/resources/)
     * [Lanhu](https://lanhuapp.com/mac)
 * Bear
 * DaisyDisk
