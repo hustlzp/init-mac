@@ -4,6 +4,7 @@
 
 * Xcode
   * change `Open Quickly` keymap to `Command + P`
+    * Remove `Print` keymap 
   * change `Re-Indent` keymap to `Alt + F`
   * change `Find Selected Symbol in Workspace` keymap to `Alt + S`
   * change font to `FiraCode`
