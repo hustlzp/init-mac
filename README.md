@@ -30,7 +30,6 @@
   * set preference folder to Dropbox
   * enable clipboard history
 * [ClashX](https://github.com/yichengchen/clashX)
-* ShadowsocksX-NG
 * Sourcetree
 * iStat Menus
 * Chrome
@@ -76,4 +75,3 @@
 * Git
   * `git config --global user.email "hustlzp@qq.com"`
   * `git config --global user.name "hustlzp"`
-
