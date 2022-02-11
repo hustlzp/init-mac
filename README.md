@@ -22,6 +22,7 @@
   * change font to `FiraCode`
   * change `Previous Tab` keymap to `Command + Alt + ←`
   * change `Next Tab` keymap to `Command + Alt + →`
+  * `Scroll wheel sends arrow keys in alternate screen mode` to `Yes`
 * Dash
   * set snippet library location to Dropbox
 * Oh My Zsh
