@@ -18,6 +18,7 @@
   * change `workbench.action.terminal.focusPreviousPane` keymap to `Alt + Command + ←`
   * change `workbench.action.terminal.focusNextPane` keymap to `Alt + Command + →`
   * change font to `FiraCode`
+  * `Shift + Command + P` -> ``Shell Command: Install `code` command in PATH``
 * iTerm2
   * change font to `FiraCode`
   * change `Previous Tab` keymap to `Command + Alt + ←`
