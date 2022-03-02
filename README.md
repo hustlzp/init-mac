@@ -7,6 +7,7 @@
     * Remove `Print` keymap 
   * change `Re-Indent` keymap to `Alt + F`
   * change `Find Selected Symbol in Workspace` keymap to `Alt + S`
+  * change `Assistant (Xcode.Skywagon.MenuDefinition)` keymap to `Alt + A`
   * change font to `FiraCode`
   * check `Text Editing` -> `Editing` -> `While Editing` -> `Including whitespace-only lines`
 * VSCode
